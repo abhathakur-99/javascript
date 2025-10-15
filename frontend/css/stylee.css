@@ -1,0 +1,19 @@
+h1{
+    color:green;
+}
+
+p{
+    color:orange;
+    background-color: black;
+    font-size: 20px;
+    border: 2px solid red; 
+}
+button{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    border-radius: 10px;
+}
+body{
+    background-color: lightgrey;
+}
